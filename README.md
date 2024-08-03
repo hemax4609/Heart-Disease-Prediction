@@ -30,8 +30,8 @@ The dataset used in this project is the Cleveland Heart Disease dataset from the
 
 # Usage
 * Data Preprocessing: The data is cleaned and preprocessed to handle missing values, categorical encoding, and normalization.
-* Model Training: Different machine learning models (Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors, etc.) are trained and evaluated.
+* Model Training: Different machine learning models (Logistic Regression, Support Vector Machine, Random Forest, K-Nearest Neighbors) are trained and evaluated.
 * Prediction: The best performing model is used to make predictions on new data.
 
 # Results
-The model's performance is evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC. The results are visualized using confusion matrix, ROC curves, and feature importance plots.
+The model's performance is evaluated using metrics like accuracy, precision, recall, F1-score,confuion_matrix.
